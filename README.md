@@ -1,6 +1,6 @@
 # Button
-1when the cursor is hover on top of the button,  
-When you hover your mouse over a word, **only that single word** becomes perfectly clear and readable — the rest stay blurred.
+When the cursor is hover on top of the button,  
+When you hover your mouse over the button, the term **download** appears on top of **Hover me**.
 
 Pure HTML + CSS only → **Zero JavaScript**
 
